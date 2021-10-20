@@ -1,0 +1,11 @@
+#iconWrapper
+{
+    text-align: center;
+}
+#iconWrapper i
+{
+    color: #008d5d;
+    font-size: 90px;
+    margin-top: 90px;
+    margin-left: 35px;
+}

@@ -1,0 +1,10 @@
+/*------ import ------*/
+    @import url("../font/font.css");
+    @import url("../reset/reset.css");
+    @import url("../class/class.css");
+/*------ import ------*/
+body
+{
+    direction: rtl;
+    font-family: 'iranSansUltraLight';
+}

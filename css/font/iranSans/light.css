@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'iranSansLight';
+    src: url("../../../font/iranSans/light/IRANSansWeb_Light.eot") format("embedded-opentype");
+    src:
+        url("../../../font/iranSans/light/IRANSansWeb_Light.eot?#iefix") format("embedded-opentype"),
+        url("../../../font/iranSans/light/IRANSansWeb_Light.ttf") format("truetype"),
+        url("../../../font/iranSans/light/IRANSansWeb_Light.woff") format("woff"),
+        url("../../../font/iranSans/light/IRANSansWeb_Light.woff2") format("woff2")
+    ;
+}
